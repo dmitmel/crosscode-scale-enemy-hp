@@ -3,7 +3,7 @@
   "version": "0.0.0",
   "license": "CC0-1.0",
   "title": "Scale Enemy HP",
-  "description": "Adds an assist option which scales hitpoints of enemies.",
+  "description": "Adds an assist option which scales the hitpoints of enemies.",
   "prestart": "prestart.js",
   "assets": ["data/lang/sc/gui.en_US.json.patch"]
 }
