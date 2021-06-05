@@ -1,0 +1,10 @@
+{
+  "labels": {
+    "options": {
+      "assist-scale-enemy-hp": {
+        "name": "Enemy HP Scale",
+        "description": "Scales the hitpoints of enemies. \\c[1]Needs a restart!"
+      }
+    }
+  }
+}

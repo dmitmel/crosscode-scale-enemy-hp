@@ -1,0 +1,12 @@
+{
+  "name": "scale-enemy-hp",
+  "version": "0.0.0",
+  "license": "CC0-1.0",
+  "ccmodHumanName": "Scale Enemy HP",
+  "description": "Adds an assist option which scales hitpoints of enemies.",
+  "module": true,
+  "prestart": "prestart.js",
+  "assets": [
+    "data/lang/sc/gui.en_US.json.patch"
+  ]
+}
